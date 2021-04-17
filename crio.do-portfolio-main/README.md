@@ -1,4 +1,4 @@
-# Qprofile
+# My profile page
 
 Build and Deploy a full stack profile webpage 
 View my portfolio at [Link](https://carsonrodrigues.netlify.app/)
